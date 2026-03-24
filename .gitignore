@@ -1,0 +1,9 @@
+docs/
+
+venv/
+
+data/accepted_2007_to_2018q4.csv
+data/cleaned_data
+data/featured_data
+
+powerbi
