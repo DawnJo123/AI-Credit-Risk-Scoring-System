@@ -7,3 +7,7 @@ data/cleaned_data
 data/featured_data
 
 powerbi
+
+notebooks/05_llm_layer copy.ipynb
+
+.env
